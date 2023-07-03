@@ -1,6 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Define Article %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \documentclass{article}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%% Using Packages %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{float}
@@ -13,23 +11,20 @@
 \usepackage{mdframed}
 \usepackage{booktabs}
 \usepackage{lipsum}
-\usepackage{graphicx}
 \usepackage{color}
 \usepackage{psfrag}
 \usepackage{pgfplots}
 \usepackage{bm}
+\usepackage{csquotes}
 \usepackage[spanish]{babel}
-\usepackage[backend=biber,style=apa]{biblatex}
-\bibliography{referencias}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[style=apa]{biblatex}
 
-% Other Settings
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% Page Setting %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \geometry{letterpaper, margin=2.54cm}
 \addbibresource{referencias.bib}
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%% Define some useful colors %%%%%%%%%%%%%%%%%%%%%%%%%%
 \definecolor{ocre}{RGB}{243,102,25}
 \definecolor{mygray}{RGB}{243,243,244}
@@ -47,11 +42,11 @@
 \newtheoremstyle{mytheoremstyle}{3pt}{3pt}{\normalfont}{0cm}{\rmfamily\bfseries}{}{1em}{{\color{black}\thmname{#1}~\thmnumber{#2}}\thmnote{\,--\,#3}}
 \newtheoremstyle{myproblemstyle}{3pt}{3pt}{\normalfont}{0cm}{\rmfamily\bfseries}{}{1em}{{\color{black}\thmname{#1}~\thmnumber{#2}}\thmnote{\,--\,#3}}
 \theoremstyle{mytheoremstyle}
-\newmdtheoremenv[linewidth=1pt,backgroundcolor=shallowGreen,linecolor=deepGreen,leftmargin=0pt,innerleftmargin=20pt,innerrightmargin=20pt,]{theorem}{Theorem}[section]
+\newmdtheoremenv[linewidth=1pt,backgroundcolor=shallowGreen,linecolor=deepGreen,leftmargin=0pt,innerleftmargin=20pt,innerrightmargin=20pt]{theorem}{Theorem}[section]
 \theoremstyle{mytheoremstyle}
-\newmdtheoremenv[linewidth=1pt,backgroundcolor=shallowBlue,linecolor=deepBlue,leftmargin=0pt,innerleftmargin=20pt,innerrightmargin=20pt,]{definition}{Definition}[section]
+\newmdtheoremenv[linewidth=1pt,backgroundcolor=shallowBlue,linecolor=deepBlue,leftmargin=0pt,innerleftmargin=20pt,innerrightmargin=20pt]{definition}{Definition}[section]
 \theoremstyle{myproblemstyle}
-\newmdtheoremenv[linecolor=black,leftmargin=0pt,innerleftmargin=10pt,innerrightmargin=10pt,]{problem}{Problem}[section]
+\newmdtheoremenv[linecolor=black,leftmargin=0pt,innerleftmargin=10pt,innerrightmargin=10pt]{problem}{Problem}[section]
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Plotting Settings %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -203,8 +198,7 @@ Para el desarrollo de este proyecto, realizamos varios planos antes de construir
     En conclusión, se logró estudiar el movimiento de un ascensor o elevador y realizar cálculos empíricos de su velocidad, aceleración y distancia recorrida. Se construyó una maqueta de ascensor a pequeña escala y se realizaron experimentos para medir el tiempo que tarda en subir y bajar entre pisos y demostrar conceptos de dinámica como la aceleración, la velocidad y la gravedad que afectan el movimiento de un ascensor real. Los cálculos se simplificaron mucho, ya que ambas cabinas se mueven a la misma velocidad aportada por el motor. La diferencia es que es en sentidos contrarios. Se calculó la velocidad, la aceleración, la fuerza de tensión en los cables que sostienen las cabinas, la potencia y la velocidad angular del eje.
     
     \newpage
-    \printbibliography[title={Bibliografía}]
+   
     \section*{Bibliografía}
-
-    
+    \printbibliography 
 \end{document}

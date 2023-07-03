@@ -1,19 +1,19 @@
 # Fdb version 4
-["biber build/TallerR1"] 1688420102 "build/TallerR1.bcf" "build/TallerR1.bbl" "build/TallerR1" 1688420158 0
+["biber build/TallerR1"] 1688422326 "build/TallerR1.bcf" "build/TallerR1.bbl" "build/TallerR1" 1688422337 0
   "./referencias.bib" 1688418939 732 1e29aeae3d43cd37e243185ae5e7d8e3 ""
-  "build/TallerR1.bcf" 1688420156 132972 0cc3ad210dd207bb2211af397e8701db "pdflatex"
+  "build/TallerR1.bcf" 1688422335 132876 13072c71fc39cd777cc76b0826bd39f5 "pdflatex"
   (generated)
   "build/TallerR1.bbl"
   "build/TallerR1.blg"
   (rewritten before read)
-["pdflatex"] 1688420153 "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" "build/TallerR1.pdf" "TallerR1" 1688420158 0
+["pdflatex"] 1688422331 "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" "build/TallerR1.pdf" "TallerR1" 1688422337 0
   "Picture1.jpg" 1688418558 123193 f5600e9b4513f592d01b3b1a24fd0bcb ""
-  "TallerR1.tex" 1688420151 9591 1734c095e4d69c28f926518a1bdec811 ""
-  "build/TallerR1.aux" 1688420156 1451 168298a2ba081c8019a8daf0bfc20574 "pdflatex"
-  "build/TallerR1.bbl" 1688420105 486 ee04f40f768daeed26442158e95aba61 "biber build/TallerR1"
-  "build/TallerR1.run.xml" 1688420156 2388 1b8efd13eb5f94fdfce890715812b71e "pdflatex"
-  "build/TallerR1.toc" 1688420156 273 c5a88f46b7c6e5a5446ed50d6f81a4ff "pdflatex"
-  "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" 1688420151 9591 1734c095e4d69c28f926518a1bdec811 ""
+  "TallerR1.tex" 1688422320 9339 237ddf0431519f8c4792c542519de6bb ""
+  "build/TallerR1.aux" 1688422335 1428 db2c9c9ecf9fccd18a2a0a2ed3eb6064 "pdflatex"
+  "build/TallerR1.bbl" 1688422330 486 ee04f40f768daeed26442158e95aba61 "biber build/TallerR1"
+  "build/TallerR1.run.xml" 1688422335 2388 a8074be2fbcdd5ea067c03a947e9dc76 "pdflatex"
+  "build/TallerR1.toc" 1688422335 273 c5a88f46b7c6e5a5446ed50d6f81a4ff "pdflatex"
+  "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" 1688422320 9339 237ddf0431519f8c4792c542519de6bb ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1686119737 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1686112380 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1686112380 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -181,6 +181,9 @@
   "c:/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def" 1686113483 32455 8d3e554836db11aab80a8e11be62e1b1 ""
   "c:/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx" 1686113483 47877 2937a87fb5d0198bff6d13364058deea ""
   "c:/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty" 1686114041 6078 f1cb470c9199e7110a27851508ed7a5c ""
+  "c:/texlive/2023/texmf-dist/tex/latex/csquotes/csquotes.cfg" 1686116188 7068 06f8d141725d114847527a66439066b6 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/csquotes/csquotes.def" 1686116188 21994 2bc2a882df92d97dbce35c06bb1d3541 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/csquotes/csquotes.sty" 1686116188 62761 3c92d495a9e03d7254b9a3266aa17164 ""
   "c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1686118391 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1686118613 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "c:/texlive/2023/texmf-dist/tex/latex/float/float.sty" 1686119580 6749 16d2656a1984957e674b149555f1ea1d ""
