@@ -1,19 +1,19 @@
 # Fdb version 4
-["biber build/TallerR1"] 1688422326 "build/TallerR1.bcf" "build/TallerR1.bbl" "build/TallerR1" 1688422337 0
-  "./referencias.bib" 1688418939 732 1e29aeae3d43cd37e243185ae5e7d8e3 ""
-  "build/TallerR1.bcf" 1688422335 132876 13072c71fc39cd777cc76b0826bd39f5 "pdflatex"
+["biber build/TallerR1"] 1688423515 "build/TallerR1.bcf" "build/TallerR1.bbl" "build/TallerR1" 1688423531 0
+  "./hijueputasreferencias.bib" 1688418939 732 1e29aeae3d43cd37e243185ae5e7d8e3 ""
+  "build/TallerR1.bcf" 1688423530 132886 e5ce640afaa49daa58a67dde4b460dd4 "pdflatex"
   (generated)
   "build/TallerR1.bbl"
   "build/TallerR1.blg"
   (rewritten before read)
-["pdflatex"] 1688422331 "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" "build/TallerR1.pdf" "TallerR1" 1688422337 0
+["pdflatex"] 1688423526 "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" "build/TallerR1.pdf" "TallerR1" 1688423531 0
   "Picture1.jpg" 1688418558 123193 f5600e9b4513f592d01b3b1a24fd0bcb ""
-  "TallerR1.tex" 1688422320 9339 237ddf0431519f8c4792c542519de6bb ""
-  "build/TallerR1.aux" 1688422335 1428 db2c9c9ecf9fccd18a2a0a2ed3eb6064 "pdflatex"
-  "build/TallerR1.bbl" 1688422330 486 ee04f40f768daeed26442158e95aba61 "biber build/TallerR1"
-  "build/TallerR1.run.xml" 1688422335 2388 a8074be2fbcdd5ea067c03a947e9dc76 "pdflatex"
-  "build/TallerR1.toc" 1688422335 273 c5a88f46b7c6e5a5446ed50d6f81a4ff "pdflatex"
-  "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" 1688422320 9339 237ddf0431519f8c4792c542519de6bb ""
+  "TallerR1.tex" 1688423508 9349 30027f59373d0a817f8c0e4fd94f9992 ""
+  "build/TallerR1.aux" 1688423530 1428 db2c9c9ecf9fccd18a2a0a2ed3eb6064 "pdflatex"
+  "build/TallerR1.bbl" 1688423520 486 ee04f40f768daeed26442158e95aba61 "biber build/TallerR1"
+  "build/TallerR1.run.xml" 1688423530 2398 615c1ede83b13d5834b93d801fe59724 "pdflatex"
+  "build/TallerR1.toc" 1688423530 273 c5a88f46b7c6e5a5446ed50d6f81a4ff "pdflatex"
+  "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" 1688423508 9349 30027f59373d0a817f8c0e4fd94f9992 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1686119737 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1686112380 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1686112380 1120 7f9f170e8aa57527ad6c49feafd45d54 ""

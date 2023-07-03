@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.7)  3 JUL 2023 17:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.7)  3 JUL 2023 17:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1082,8 +1082,8 @@ Package logreq Info: Writing requests to 'TallerR1.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  38361 strings out of 476038
- 919141 string characters out of 5794168
- 2101039 words of memory out of 5000000
+ 919191 string characters out of 5794168
+ 2101089 words of memory out of 5000000
  58225 multiletter control sequences out of 15000+600000
  518558 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191

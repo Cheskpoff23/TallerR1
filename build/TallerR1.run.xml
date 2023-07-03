@@ -81,7 +81,7 @@
       <file>TallerR1.bcf</file>
     </requires>
     <requires type="editable">
-      <file>referencias.bib</file>
+      <file>hijueputasreferencias.bib</file>
     </requires>
   </external>
 </requests>
