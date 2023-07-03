@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.7)  3 JUL 2023 16:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.7)  3 JUL 2023 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -619,26 +619,49 @@ Package bm Info: No bold for \U/msa/m/n, using \pmb.
 Package bm Info: No bold for \U/msb/m/n, using \pmb.
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
 )
+c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:21: Undefined control sequence.
+<recently read> \addbibresource 
+                                
+l.21 \addbibresource
+                    {referencias.bib}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:21: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \addbibresource{r
+                      eferencias.bib}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 \c@theorem=\count329
 \c@definition=\count330
 \c@problem=\count331
- (c:/texlive/2023/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.colorbrewer.code.tex (c:/texlive/2023/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarycolorbrewer.code.tex)) (build/TallerR1.aux)
+(c:/texlive/2023/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.colorbrewer.code.tex (c:/texlive/2023/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarycolorbrewer.code.tex)) (build/TallerR1.aux)
 \openout1 = `TallerR1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -701,73 +724,73 @@ Package pgfplots notification 'compat/show suggested version=true': you might be
 Non-PDF special ignored!
 <special> header=psfrag.pro
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (build/TallerR1.toc)
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [1] (build/TallerR1.toc)
 \tf@toc=\write5
 \openout5 = `TallerR1.toc'.
 
  [1] [2] [3{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-<Picture1.jpg, id=23, 476.982pt x 285.7186pt>
+<Picture1.jpg, id=26, 476.982pt x 285.7186pt>
 File: Picture1.jpg Graphic file (type jpg)
 <use Picture1.jpg>
-Package pdftex.def Info: Picture1.jpg  used on input line 136.
+Package pdftex.def Info: Picture1.jpg  used on input line 137.
 (pdftex.def)             Requested size: 234.87769pt x 140.69652pt.
 File: Picture1.jpg Graphic file (type jpg)
 <use Picture1.jpg>
-Package pdftex.def Info: Picture1.jpg  used on input line 145.
+Package pdftex.def Info: Picture1.jpg  used on input line 146.
 (pdftex.def)             Requested size: 234.87769pt x 140.69652pt.
 File: Picture1.jpg Graphic file (type jpg)
 <use Picture1.jpg>
-Package pdftex.def Info: Picture1.jpg  used on input line 154.
+Package pdftex.def Info: Picture1.jpg  used on input line 155.
 (pdftex.def)             Requested size: 375.80574pt x 225.11792pt.
  [4 <./Picture1.jpg>]
 File: Picture1.jpg Graphic file (type jpg)
 <use Picture1.jpg>
-Package pdftex.def Info: Picture1.jpg  used on input line 164.
+Package pdftex.def Info: Picture1.jpg  used on input line 165.
 (pdftex.def)             Requested size: 375.80574pt x 225.11792pt.
  [5]
-Underfull \hbox (badness 10000) in paragraph at lines 173--175
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 175.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 176.
 (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 175.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 176.
  (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 180--184
+Underfull \hbox (badness 10000) in paragraph at lines 181--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--191
+Underfull \hbox (badness 10000) in paragraph at lines 189--192
 
  []
 
 [6]
 
-c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:204: LaTeX Error: Lonely \item--perhaps a missing list environment.
+c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:205: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.204     \bibitem{hibbeler2017mechanics}
+l.205     \bibitem{hibbeler2017mechanics}
                                          
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 204
+Underfull \hbox (badness 10000) detected at line 205
 [][]
  []
 
-c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:204: Undefined control sequence.
+c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:205: Undefined control sequence.
 <argument> \@listctr 
                      
-l.204     \bibitem{hibbeler2017mechanics}
+l.205     \bibitem{hibbeler2017mechanics}
                                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -775,34 +798,34 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:204: You can't use `\relax' after \the.
+c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:205: You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.204     \bibitem{hibbeler2017mechanics}
+l.205     \bibitem{hibbeler2017mechanics}
                                          
 I'm forgetting what you said and using zero instead.
 
 
-c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:207: LaTeX Error: Lonely \item--perhaps a missing list environment.
+c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:208: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.207     \bibitem{cadartif2019solidworks}
+l.208     \bibitem{cadartif2019solidworks}
                                           
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 207
+Underfull \hbox (badness 10000) detected at line 208
 [][]
  []
 
-c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:207: Undefined control sequence.
+c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:208: Undefined control sequence.
 <argument> \@listctr 
                      
-l.207     \bibitem{cadartif2019solidworks}
+l.208     \bibitem{cadartif2019solidworks}
                                           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -810,27 +833,27 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:207: You can't use `\relax' after \the.
+c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex:208: You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.207     \bibitem{cadartif2019solidworks}
+l.208     \bibitem{cadartif2019solidworks}
                                           
 I'm forgetting what you said and using zero instead.
 
 [7] (build/TallerR1.aux) ) 
 Here is how much of TeX's memory you used:
  28937 strings out of 476038
- 735833 string characters out of 5794168
+ 735829 string characters out of 5794168
  1860779 words of memory out of 5000000
  48884 multiletter control sequences out of 15000+600000
  519239 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,7n,103p,828b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on build/TallerR1.pdf (8 pages, 264188 bytes).
+Output written on build/TallerR1.pdf (9 pages, 264408 bytes).
 PDF statistics:
- 91 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 94 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 

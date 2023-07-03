@@ -419,14 +419,14 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+OUTPUT build/TallerR1.pdf
+INPUT c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
-OUTPUT build/TallerR1.pdf
-INPUT c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT build/TallerR1.toc
