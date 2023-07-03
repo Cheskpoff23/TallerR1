@@ -1,9 +1,9 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
-[1] Config.pm:310> INFO - Logfile is 'build/TallerR1.blg'
-[257] biber-MSWIN64:340> INFO - === 
-[334] Biber.pm:419> INFO - Reading 'build/TallerR1.bcf'
-[691] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[748] bbl.pm:660> INFO - Writing 'build/TallerR1.bbl' with encoding 'UTF-8'
-[748] bbl.pm:763> INFO - Output to build/TallerR1.bbl
-[749] Biber.pm:131> WARN - The file 'build/TallerR1.bcf' does not contain any citations!
-[749] Biber.pm:133> INFO - WARNINGS: 1
+[0] Config.pm:310> INFO - Logfile is 'build/TallerR1.blg'
+[138] biber-MSWIN64:340> INFO - === 
+[195] Biber.pm:419> INFO - Reading 'build/TallerR1.bcf'
+[337] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[355] bbl.pm:660> INFO - Writing 'build/TallerR1.bbl' with encoding 'UTF-8'
+[355] bbl.pm:763> INFO - Output to build/TallerR1.bbl
+[356] Biber.pm:131> WARN - The file 'build/TallerR1.bcf' does not contain any citations!
+[356] Biber.pm:133> INFO - WARNINGS: 1

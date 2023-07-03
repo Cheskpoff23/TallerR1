@@ -1,19 +1,19 @@
 # Fdb version 4
-["biber build/TallerR1"] 1688423515 "build/TallerR1.bcf" "build/TallerR1.bbl" "build/TallerR1" 1688423531 0
-  "./hijueputasreferencias.bib" 1688418939 732 1e29aeae3d43cd37e243185ae5e7d8e3 ""
-  "build/TallerR1.bcf" 1688423530 132886 e5ce640afaa49daa58a67dde4b460dd4 "pdflatex"
+["biber build/TallerR1"] 1688423943 "build/TallerR1.bcf" "build/TallerR1.bbl" "build/TallerR1" 1688423947 0
+  "./hijueputasreferencias.bib" 1688423925 734 7cf0b1ce25928ed21402911d433d3282 ""
+  "build/TallerR1.bcf" 1688423947 107712 a15d6db0e93552ef9b5eb9341bc8d697 "pdflatex"
   (generated)
   "build/TallerR1.bbl"
   "build/TallerR1.blg"
   (rewritten before read)
-["pdflatex"] 1688423526 "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" "build/TallerR1.pdf" "TallerR1" 1688423531 0
+["pdflatex"] 1688423945 "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" "build/TallerR1.pdf" "TallerR1" 1688423947 0
   "Picture1.jpg" 1688418558 123193 f5600e9b4513f592d01b3b1a24fd0bcb ""
-  "TallerR1.tex" 1688423508 9349 30027f59373d0a817f8c0e4fd94f9992 ""
-  "build/TallerR1.aux" 1688423530 1428 db2c9c9ecf9fccd18a2a0a2ed3eb6064 "pdflatex"
-  "build/TallerR1.bbl" 1688423520 486 ee04f40f768daeed26442158e95aba61 "biber build/TallerR1"
-  "build/TallerR1.run.xml" 1688423530 2398 615c1ede83b13d5834b93d801fe59724 "pdflatex"
-  "build/TallerR1.toc" 1688423530 273 c5a88f46b7c6e5a5446ed50d6f81a4ff "pdflatex"
-  "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" 1688423508 9349 30027f59373d0a817f8c0e4fd94f9992 ""
+  "TallerR1.tex" 1688423940 9359 f4565db2153482cc1ca7c5a6709620f6 ""
+  "build/TallerR1.aux" 1688423947 1451 b4c48b9e8f1ee032cd3f95735cad94a2 "pdflatex"
+  "build/TallerR1.bbl" 1688423945 486 ee04f40f768daeed26442158e95aba61 "biber build/TallerR1"
+  "build/TallerR1.run.xml" 1688423947 2344 ef03b90bf787e9ba9d1b744a0c4397ae "pdflatex"
+  "build/TallerR1.toc" 1688423947 273 c5a88f46b7c6e5a5446ed50d6f81a4ff "pdflatex"
+  "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" 1688423940 9359 f4565db2153482cc1ca7c5a6709620f6 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1686119737 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1686112380 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1686112380 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -168,10 +168,7 @@
   "c:/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty" 1686134355 3052 30236f0cc243a8651b82240dfd2e8b9d ""
   "c:/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty" 1686134355 5319 48d7f3cfa322abd2788e3c09d624b922 ""
   "c:/texlive/2023/texmf-dist/tex/latex/base/size10.clo" 1686134355 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
-  "c:/texlive/2023/texmf-dist/tex/latex/biblatex-apa/apa.bbx" 1686113496 68546 9e1a16021ee55f6bb5378029f145647b ""
-  "c:/texlive/2023/texmf-dist/tex/latex/biblatex-apa/apa.cbx" 1686113497 20499 0ad31db7b661b1a75fb75fe9aa337922 ""
-  "c:/texlive/2023/texmf-dist/tex/latex/biblatex-apa/apa.dbx" 1686113497 2676 4c4c5f7972322150712501515143ddd7 ""
-  "c:/texlive/2023/texmf-dist/tex/latex/biblatex-apa/spanish-apa.lbx" 1686113497 11266 80c89dfce00209bc16b2b13f442f9c35 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx" 1686113483 1818 9ed166ac0a9204a8ebe450ca09db5dde ""
   "c:/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx" 1686113483 25680 409c3f3d570418bc545e8065bebd0688 ""
   "c:/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.cfg" 1686113483 69 249fa6df04d948e51b6d5c67bea30c42 ""
   "c:/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def" 1686113483 92527 8f6b3a677f74ea525477a813f33c4e65 ""
@@ -179,6 +176,7 @@
   "c:/texlive/2023/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty" 1686113483 8433 72f8188742e7214b7068f345cd0287ac ""
   "c:/texlive/2023/texmf-dist/tex/latex/biblatex/blx-compat.def" 1686113483 13919 5426dbe90e723f089052b4e908b56ef9 ""
   "c:/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def" 1686113483 32455 8d3e554836db11aab80a8e11be62e1b1 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx" 1686113483 4629 cda468e8a0b1cfa0f61872e171037a4b ""
   "c:/texlive/2023/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx" 1686113483 47877 2937a87fb5d0198bff6d13364058deea ""
   "c:/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty" 1686114041 6078 f1cb470c9199e7110a27851508ed7a5c ""
   "c:/texlive/2023/texmf-dist/tex/latex/csquotes/csquotes.cfg" 1686116188 7068 06f8d141725d114847527a66439066b6 ""
