@@ -18,13 +18,16 @@
 \usepackage{psfrag}
 \usepackage{pgfplots}
 \usepackage{bm}
-\addbibresource{referencias.bib}
+\usepackage[spanish]{babel}
+\usepackage[backend=biber,style=apa]{biblatex}
+\bibliography{referencias}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Other Settings
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% Page Setting %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \geometry{letterpaper, margin=2.54cm}
+\addbibresource{referencias.bib}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%% Define some useful colors %%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -62,6 +65,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
+
     \begin{titlepage}
 \centering
 
@@ -199,13 +203,8 @@ Para el desarrollo de este proyecto, realizamos varios planos antes de construir
     En conclusión, se logró estudiar el movimiento de un ascensor o elevador y realizar cálculos empíricos de su velocidad, aceleración y distancia recorrida. Se construyó una maqueta de ascensor a pequeña escala y se realizaron experimentos para medir el tiempo que tarda en subir y bajar entre pisos y demostrar conceptos de dinámica como la aceleración, la velocidad y la gravedad que afectan el movimiento de un ascensor real. Los cálculos se simplificaron mucho, ya que ambas cabinas se mueven a la misma velocidad aportada por el motor. La diferencia es que es en sentidos contrarios. Se calculó la velocidad, la aceleración, la fuerza de tensión en los cables que sostienen las cabinas, la potencia y la velocidad angular del eje.
     
     \newpage
-
+    \printbibliography[title={Bibliografía}]
     \section*{Bibliografía}
-    \addcontentsline{toc}{section}{Bibliografía}
-    \bibitem{hibbeler2017mechanics}
-    R.C. Hibbeler. \emph{Mechanics of Materials}. Pearson, 2017. Capítulo 6.
-    
-    \bibitem{cadartif2019solidworks}
-    CADArtifex. \emph{SolidWorks 2019 A Guide for Beginners and Intermediate Users}. CreateSpace Independent Publishing Platform, 2019. Capítulo 2.
+
     
 \end{document}
