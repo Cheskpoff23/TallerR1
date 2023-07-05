@@ -1,16 +1,16 @@
 # Fdb version 4
-["biber build/TallerR1"] 1688529156 "build/TallerR1.bcf" "build/TallerR1.bbl" "build/TallerR1" 1688529273 0
-  "build/TallerR1.bcf" 1688529272 132430 24c369e61c717491d6cd805f15025e29 "pdflatex"
+["biber build/TallerR1"] 1688529365 "build/TallerR1.bcf" "build/TallerR1.bbl" "build/TallerR1" 1688529920 0
+  "build/TallerR1.bcf" 1688529920 132430 24c369e61c717491d6cd805f15025e29 "pdflatex"
   (generated)
   "build/TallerR1.bbl"
   "build/TallerR1.blg"
   (rewritten before read)
-["pdflatex"] 1688529271 "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" "build/TallerR1.pdf" "TallerR1" 1688529273 0
-  "TallerR1.tex" 1688529269 7573 3237c5f1fba097f13f5a2ec5300533c9 ""
-  "build/TallerR1.aux" 1688529272 435 9c3c054ba2170646c5379ff2fdbfb66d "pdflatex"
-  "build/TallerR1.bbl" 1688529158 0 d41d8cd98f00b204e9800998ecf8427e "biber build/TallerR1"
-  "build/TallerR1.run.xml" 1688529272 2306 9163269f5e401c1a0911c2d2371da1cd "pdflatex"
-  "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" 1688529269 7573 3237c5f1fba097f13f5a2ec5300533c9 ""
+["pdflatex"] 1688529917 "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" "build/TallerR1.pdf" "TallerR1" 1688529920 0
+  "TallerR1.tex" 1688529914 7720 d69b2a1a584f18e0fa1e00bf4c324fd9 ""
+  "build/TallerR1.aux" 1688529920 435 375f793f1d2bf2583442fc9e801da4a5 "pdflatex"
+  "build/TallerR1.bbl" 1688529367 0 d41d8cd98f00b204e9800998ecf8427e "biber build/TallerR1"
+  "build/TallerR1.run.xml" 1688529920 2306 9163269f5e401c1a0911c2d2371da1cd "pdflatex"
+  "c:/Users/gusta/OneDrive/Escritorio/TallerR1/TallerR1.tex" 1688529914 7720 d69b2a1a584f18e0fa1e00bf4c324fd9 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1686119737 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1686115241 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1686115241 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -200,6 +200,7 @@
   "c:/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty" 1686136759 325 f9f16d12354225b7dd52a3321f085955 ""
   "c:/texlive/2023/texmf-dist/tex/latex/pgfplots/pgfplots.sty" 1686136810 4904 ee78b44e85d6fccf08cd99370557481e ""
   "c:/texlive/2023/texmf-dist/tex/latex/psfrag/psfrag.sty" 1686137222 7349 04574cd13971edb76f06a9e2e9a108d9 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty" 1686138289 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "c:/texlive/2023/texmf-dist/tex/latex/tools/bm.sty" 1686139704 13231 b52297489a0e9d929aae403417d92a02 ""
   "c:/texlive/2023/texmf-dist/tex/latex/tools/calc.sty" 1686139704 10214 de3e21cfc0eccc98ca7f8dac0ef263d2 ""
   "c:/texlive/2023/texmf-dist/tex/latex/url/url.sty" 1686140174 12796 8edb7d69a20b857904dd0ea757c14ec9 ""

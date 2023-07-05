@@ -1,4 +1,4 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'build/TallerR1.blg'
-[147] biber-MSWIN64:340> INFO - === 
-[208] Biber.pm:419> INFO - Reading 'build/TallerR1.bcf'
+[226] biber-MSWIN64:340> INFO - === 
+[294] Biber.pm:419> INFO - Reading 'build/TallerR1.bcf'
